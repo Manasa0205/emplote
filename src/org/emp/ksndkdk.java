@@ -10,6 +10,7 @@ public class ksndkdk
 		System.out.println(b);
 		System.out.println(c);
 		System.out.println(a+b);
+		System.out.println("123");
 	}
 
 }
