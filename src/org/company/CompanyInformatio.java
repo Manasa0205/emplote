@@ -28,6 +28,11 @@ System.out.println(a+b);
 		p.CompanyInformatio("reddy");
 		p.CompanyInformatio("manasa","kesamreddy");
 		p.CompanyInformatio(12345,"manasa");
+		p.CompanyInformatio(12345,"manasa");
+		p.CompanyInformatio(12345,"manasa");
+		p.CompanyInformatio(12345,"mounikaaaaa");
+		System.out.println("123");
+		
 		
 		
 	}
